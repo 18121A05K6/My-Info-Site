@@ -1,0 +1,145 @@
+body {
+  background-color: #fff;
+  color: #545454;
+  margin: 0;
+  text-align: center;
+
+}
+
+h1 {
+  font-size: 2em;
+  width: 250px;
+  height: 50px;
+  margin: 0  auto;
+  font-family: 'Dancing Script', cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+h2{
+  margin-top: 0;
+  font-size: 20px;
+font-family: 'Merriweather', serif;
+color: #66BFBF;
+font-weight: normal;
+}
+h3{
+  margin-top: 0;
+  font-size: 20px;
+font-family: 'Merriweather', serif;
+color: #11999E;
+}
+.last{
+    padding-bottom: 20px;
+    margin-bottom: 0px;
+}
+
+li,p{
+  margin-top: 0;
+  font-size: 15px;
+font-family: 'Merriweather', serif;
+color:#40514E
+}
+hr{
+  border-style: none;
+  border-top-style:dotted;
+border-width: thick;
+width:5%;
+}
+.skill-row{
+  width:50%;
+  margin: auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.text {
+  background-color: #def4f0;
+  color: black;
+  width:100%;
+  padding-top: 100px;
+  position: relative;
+  padding-bottom: 100px;
+}
+.middle-container{
+  background-color: #def4f0;
+}
+.bottom-container{
+  background-color: #def4f0;
+}
+.gap{
+    margin-bottom: 100px;
+}
+.second{
+  background-color: #74d4c0;
+  color: black;
+  padding: 10px;
+  border:solid 10px;
+  margin:0 100% 0 280px ;
+}
+.third{
+  background-color: #d9455f;
+  color: black;
+  margin-left: 550px;
+  margin-right:100%;
+  margin-top: 0;
+  padding: 10px;
+  border:solid 10px;
+}
+.middle{
+  position:absolute;
+  top:180px;
+  left:350px;
+  padding-bottom: 50px;
+  padding-top:30px;
+}
+.top{
+  position:absolute;
+  right:400px;
+  top:50px;
+}
+.bottom{
+  padding-top: 100px;
+}
+.pic{
+  width: 150px;
+  margin-top: 10px;
+}
+.skillsimg{
+  width: 150px;
+  margin-bottom: 15px;
+  float:left;
+  margin-right: 45px;
+}
+.skill{
+  clear:left;
+  padding-top:10px;
+}
+.end{
+  position: relative;
+  background-color: #11999ee0;
+  margin: auto;
+  padding: 40px 70px 70px 70px;
+}
+a{
+  color: blue;
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
+.lhead{
+  color: #23049d;
+  margin-top: 0px;
+}
+.btn{
+  margin-bottom: 10px;
+}
+.last{
+  position: relative;
+  padding: 20px;
+}
+.footer-link{
+  position: relative;
+  padding: 20px;
+  width: 40px;
+}
